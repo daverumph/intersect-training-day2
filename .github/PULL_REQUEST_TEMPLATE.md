@@ -1,5 +1,5 @@
 ## FIXES
 
 ## Check list
--[ ] Reviewed for content
--[ ] Passed tests
+- [ ] Reviewed for content
+- [ ] Passed tests
